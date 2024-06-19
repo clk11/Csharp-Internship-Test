@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0hI01M/eh6WumGmDyd9I01JFfXO6lqdtbbUjYmODfg1Piocd0oxO754dL3VNmGq0zBDvXDJT4RC2CcVfINVy1A==",
+  "dgSpecHash": "3tNbdlug3JA=",
   "success": true,
   "projectFilePath": "/home/robert/sharp/sharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/robert/.nuget/packages/microsoft.netcore.app.ref/8.0.6/microsoft.netcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/robert/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/robert/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.6/microsoft.netcore.app.host.linux-x64.8.0.6.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -12,3 +12,4 @@
 /home/robert/sharp/obj/Debug/net8.0/sharp.pdb
 /home/robert/sharp/obj/Debug/net8.0/sharp.genruntimeconfig.cache
 /home/robert/sharp/obj/Debug/net8.0/ref/sharp.dll
+/home/robert/sharp/obj/Debug/net8.0/sharp.sourcelink.json
